@@ -1,0 +1,20 @@
+# Publisher,Zhijie Xu,zhijie.xu@pnnl.gov,zhijiexu@hotmail.com,,,,,,
+# Updated,11/2026,,,,,,,,
+#Name,Fig. 4 of the paper: plotted data,,,,,,,,
+#Ref. [1] This paper,https://doi.org/10.3847/1538-4357/adaeb3,"Z. Xu 2025, ApJ 981, 40: On a critical acceleration scale of dark matter in LCDM and dynamical dark energy",,,,,,,
+#Note,source: author MATLAB figure Create_Latex_figures/paper_figs/Critical_MOND_acceleration/Fig5_Acc_a_proper_3.fig (md5 c30b5d59ecee3d4f8cb7f290c3f41b74),,,,,,,,
+#Note,axes labels: Scale factor a; RMS acceleration (m/s^2),,,,,,,,
+#Note,"marker match of all five series (std(a_op), std(a_hp), a_c, std(a_h), std(a_p)); .fig saved 2024-10-31 05:58:26 UTC, PDF created 05:58:38 UTC",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+x[0] std(a_{op}),y[0] std(a_{op}),x[1] std(a_{hp}),y[1] std(a_{hp}),x[2] std(a_{hp}^i)=a_c,y[2] std(a_{hp}^i)=a_c,x[3] std(a_h),y[3] std(a_h),x[4] std(a_p),y[4] std(a_p)
+0.0909090909,1.34135379e-11,0.0909,0,0.0909,0,0.0909,0,0.0909090909,1.34e-11
+0.166666667,7.629756e-12,0.1667,8.429e-10,0.1667,0,0.1667,0,0.166666667,5.77e-11
+0.25,5.37710417e-12,0.25,3.739e-10,0.25,3.7386e-10,0.25,7.3437e-12,0.25,9.14e-11
+0.333333333,4.25715431e-12,0.3333,3.776e-10,0.3333,3.7753e-10,0.3333,5.5978e-12,0.333333333,1.511e-10
+0.4,3.75529138e-12,0.4,2.073e-10,0.4,2.0722e-10,0.4,4.7785e-12,0.4,1.026e-10
+0.5,3.31065909e-12,0.5,2.927e-10,0.5,2.9267e-10,0.5,4.0033e-12,0.5,1.745e-10
+0.666666667,2.9372134e-12,0.6667,1.836e-10,0.6667,1.8354e-10,0.6667,3.2638e-12,0.666666667,1.272e-10
+0.769230769,2.7830155e-12,0.7692,2.325e-10,0.7692,2.3231e-10,0.7692,2.9559e-12,0.769230769,2.323e-10
+0.909090909,2.61724086e-12,0.9091,1.74e-10,0.9091,1.7398e-10,0.9091,2.6376e-12,0.909090909,1.333e-10
+1,2.51532825e-12,1,1.192e-10,1,1.1914e-10,1,2.4738e-12,1,9.33e-11

@@ -1,0 +1,26 @@
+# Publisher,Zhijie Xu,zhijie.xu@pnnl.gov,zhijiexu@hotmail.com
+# Updated,11/2026
+#Name,Table 1 of the paper: relevant physical quantities on the smallest scale X and the largest scale A of the propagation range
+#Ref. [1] This paper,https://doi.org/10.3847/1538-4357/adaeb3,"Z. Xu 2025, ApJ 981, 40"
+#Note,SI units unless the name says otherwise; values as computed by code/pipeline/s02_theory_numbers.py
+#Note,l_A in Mpc; t_A in years; m_A in solar masses; v_A in km/s; E_A in J; m_X in GeV; E_X in eV
+
+scale,quantity,value,unit
+X,length l_X,2.86275537e-13,m
+X,time t_X,6.48857119e-07,s
+X,mass m_X,4.68404575e+11,GeV
+X,velocity v_X,3.7821575e-07,m/s
+X,acceleration a_X,0.679964267,m/s^2
+X,energy E_X,1.01444429e-09,eV
+X,density rho_X,3.55889889e+22,kg/m^3
+X,energy density rho_eX,6.92765065e+09,J/m^3
+X,kinematic viscosity nu_X,1.26304668e-19,m^2/s
+A,length l_A,2.52710417,Mpc
+A,time t_A,8.63986277e+09,yr
+A,mass m_A,4.80493952e+13,Msun
+A,velocity v_A,286,km/s
+A,acceleration a_A (= a_c),1.07451338e-10,m/s^2
+A,energy E_A,7.81726393e+54,J
+A,density rho_A,2.0155435e-25,kg/m^3
+A,energy density rho_eA,1.64863396e-14,J/m^3
+A,kinematic viscosity nu_A,2.23019521e+28,m^2/s

@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the article."
+title: "On a critical acceleration scale of dark matter in ΛCDM and dynamical dark energy: plotted data and manuscript"
+type: dataset
+authors:
+  - family-names: Xu
+    given-names: Zhijie (Jay)
+    affiliation: "Pacific Northwest National Laboratory"
+    orcid: "https://orcid.org/0000-0003-0459-4531"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23963170"
+    description: "Zenodo archive of the data files"
+license: CC-BY-4.0
+version: "2.0"
+date-released: "2026-11-05"
+keywords:
+  - "dark matter"
+  - "dark energy"
+  - "cosmology"
+  - "MOND"
+  - "Tully-Fisher relation"
+  - "acceleration fluctuations"
+  - "N-body simulation"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Xu
+      given-names: Zhijie
+  title: "On a critical acceleration scale of dark matter in ΛCDM and dynamical dark energy"
+  journal: "The Astrophysical Journal"
+  volume: 981
+  start: "40"
+  year: 2025
+  doi: "10.3847/1538-4357/adaeb3"
+  url: "https://arxiv.org/abs/2203.05606"

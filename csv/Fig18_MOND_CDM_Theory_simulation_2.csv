@@ -1,0 +1,31 @@
+# Publisher,Zhijie Xu,zhijie.xu@pnnl.gov,zhijiexu@hotmail.com,,,,,,
+# Updated,11/2026,,,,,,,,
+#Name,Fig. 18 of the paper: plotted data,,,,,,,,
+#Ref. [1] This paper,https://doi.org/10.3847/1538-4357/adaeb3,"Z. Xu 2025, ApJ 981, 40: On a critical acceleration scale of dark matter in LCDM and dynamical dark energy",,,,,,,
+#Note,source: author MATLAB figure Create_Latex_figures/paper_figs/Critical_MOND_acceleration/MOND_CDM_Theory_simulation_2.fig (md5 9caed4101937e06d579879cf32d0de07),,,,,,,,
+#Note,axes labels: Scale factor a; Universal acceleration a_0 (m/s^2),,,,,,,,
+#Note,"marker match of the Magneticum and EAGLE series; .fig saved 2023-10-29 07:28:42 UTC, PDF created 07:24:07 UTC; the .fig also holds a series ""a_c from Virgo"" that the PDF does not show",,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+x[0] a_0 from Magneticum,y[0] a_0 from Magneticum,x[1] a_c\propto t^{-1/2} (Eq. (20)),y[1] a_c\propto t^{-1/2} (Eq. (20)),x[2] \propto t^{-1} (MOND),y[2] \propto t^{-1} (MOND),x[3] a_0 from EAGLE,y[3] a_0 from EAGLE,x[4] a_c from Virgo,y[4] a_c from Virgo
+0.263157895,3.68578156e-10,0.166666667,4.21702449e-10,0.166666667,1.61666323e-09,0.979987694,1.62e-10,0.0909,0
+0.303030303,3.13230397e-10,0.2,3.67807168e-10,0.2,1.22983739e-09,0.914943241,1.65e-10,0.1667,0
+0.333333333,2.7188031e-10,0.25,3.11126984e-10,0.25,8.8e-10,0.857966567,1.69e-10,0.25,3.7386e-10
+0.4,2.09776209e-10,0.263157895,2.99385238e-10,0.263157895,8.14832007e-10,0.787267386,1.69e-10,0.3333,3.7753e-10
+0.454545455,1.85101339e-10,0.303030303,2.69325913e-10,0.303030303,6.59422247e-10,0.72729093,1.72e-10,0.4,2.0722e-10
+0.5,1.61461815e-10,0.333333333,2.50745776e-10,0.333333333,5.71576766e-10,0.664916377,1.78e-10,0.5,2.9267e-10
+0.526315789,1.57176025e-10,0.4,2.1869945e-10,0.4,4.34813178e-10,0.618479676,1.85e-10,0.6667,1.8354e-10
+0.689655172,1.35105353e-10,0.454545455,1.98705412e-10,0.454545455,3.58944007e-10,0.578118935,1.91e-10,0.7692,2.3231e-10
+0.909090909,1.12721095e-10,0.5,1.84997211e-10,0.5,3.11126984e-10,0.537932732,2.06e-10,0.9091,1.7398e-10
+NaN,NaN,0.526315789,1.78015528e-10,0.526315789,2.88086619e-10,0.500961493,2.18e-10,1,1.1914e-10
+NaN,NaN,0.689655172,1.45351222e-10,0.689655172,1.92063434e-10,0.442020744,2.35e-10,NaN,NaN
+NaN,NaN,0.909090909,1.18150945e-10,0.909090909,1.26905871e-10,0.400579042,2.56e-10,NaN,NaN
+NaN,NaN,1,1.1e-10,1,1.1e-10,0.36519688,2.68e-10,NaN,NaN
+NaN,NaN,NaN,NaN,NaN,NaN,0.331024539,3e-10,NaN,NaN
+NaN,NaN,NaN,NaN,NaN,NaN,0.307984039,3.21e-10,NaN,NaN
+NaN,NaN,NaN,NaN,NaN,NaN,0.287292557,3.34e-10,NaN,NaN
+NaN,NaN,NaN,NaN,NaN,NaN,0.248636954,3.98e-10,NaN,NaN
+NaN,NaN,NaN,NaN,NaN,NaN,0.220327799,4.52e-10,NaN,NaN
+NaN,NaN,NaN,NaN,NaN,NaN,0.20038754,4.8e-10,NaN,NaN
+NaN,NaN,NaN,NaN,NaN,NaN,0.181827578,5.6e-10,NaN,NaN
+NaN,NaN,NaN,NaN,NaN,NaN,0.165134563,5.75e-10,NaN,NaN
